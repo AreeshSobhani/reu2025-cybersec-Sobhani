@@ -3,7 +3,7 @@
 
 Project Title: _STILL FIGURING THIS OUT_
 
-Student: Areesh Sobhani
+Student: Areesh Sobhani\n
 Mentor: Dr. Qiuye He
 
 Tools and Models Used:
